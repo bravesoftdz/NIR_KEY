@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/15 06:34:40.000.939,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/15 06:53:12.000.062,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/18 13:01:22.000.090,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:21:59.000.924,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:22:59.000.033,D:\Projects\NIR Key\Main.pas=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:22:59.000.033,D:\Projects\NIR Key\Main.dfm=D:\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/20 01:23:23.000.266,D:\Projects\NIR Key\KeysCalc.dproj=D:\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/20 01:34:21.000.906,=D:\Projects\NIR Key\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:34:47.000.075,D:\Projects\NIR Key\API\API.NIR.pas=D:\Projects\NIR Key\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:52:07.000.692,=D:\Projects\NIR Key\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:55:50.000.517,D:\Projects\NIR Key\VIEW\DM\dm.API.pas=D:\Projects\NIR Key\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 01:55:50.000.517,D:\Projects\NIR Key\VIEW\DM\dm.API.dfm=D:\Projects\NIR Key\Unit1.dfm</Transaction>
+    <Transaction>2023/07/20 03:40:18.000.903,D:\Projects\NIR Key\VIEW\DM\dm.API.pas=</Transaction>
+    <Transaction>2023/07/21 02:24:12.000.492,D:\Projects\NIR Key\API\API.NIR.pas=D:\Projects\NIR Key\API\API.KEYS.pas</Transaction>
+  </Transactions>
+</BorlandProject>
